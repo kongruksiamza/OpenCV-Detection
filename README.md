@@ -1,2 +1,2 @@
 สอนเขียนโปรแกรม Python OpenCV - Image Procressing  
-https://www.youtube.com/playlist?list=PLEE74DyIkwEnj1NEawe-0rRsjWpZgU8hi
+https://www.youtube.com/watch?v=UIhSqivHLuM&list=PLltVQYLz1BMDHUbesCjIIerpHkJ7gQEQ5
